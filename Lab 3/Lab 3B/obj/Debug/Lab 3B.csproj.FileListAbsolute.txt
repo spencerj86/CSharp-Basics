@@ -1,0 +1,21 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\bin\Debug\Lab 3B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\obj\Debug\Lab 3B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\obj\Debug\Lab 3B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\bin\Debug\Lab 3B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\obj\Debug\Lab 3B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 3B\Lab 3B\obj\Debug\Lab 3B.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe.config
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\bin\Debug\Lab 3B.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\bin\Debug\Lab 3B.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csprojAssemblyReference.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\obj\Debug\Lab 3B.csproj.CoreCompileInputs.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\obj\Debug\Lab 3B.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab3\Lab 3B\Lab 3B\obj\Debug\Lab 3B.pdb

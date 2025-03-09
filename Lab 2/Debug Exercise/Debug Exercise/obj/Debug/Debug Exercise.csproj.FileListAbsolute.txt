@@ -1,0 +1,27 @@
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csprojAssemblyReference.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.csproj.CoreCompileInputs.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\obj\Debug\Debug Exercise.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe.config
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab2\Debug Exercise\Debug Exercise\bin\Debug\Debug Exercise.pdb
