@@ -1,0 +1,21 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csprojAssemblyReference.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe.config
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\bin\Debug\Lab 7A.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\bin\Debug\Lab 7A.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\obj\Debug\Lab 7A.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\obj\Debug\Lab 7A.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 7A\Lab 7A\obj\Debug\Lab 7A.csprojAssemblyReference.cache

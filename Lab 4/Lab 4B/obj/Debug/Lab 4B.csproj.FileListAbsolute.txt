@@ -1,0 +1,21 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Labs\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csprojAssemblyReference.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\obj\Debug\Lab 4B.csproj.CoreCompileInputs.cache
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\obj\Debug\Lab 4B.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\obj\Debug\Lab 4B.pdb
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe.config
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\bin\Debug\Lab 4B.exe
+C:\Users\rheto\Documents\FullSail\PG1\Working\Lab 4B\Lab 4B\bin\Debug\Lab 4B.pdb
